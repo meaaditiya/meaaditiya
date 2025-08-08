@@ -1,7 +1,7 @@
 <h1 align="center">Aaditiya Tyagi</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Cloud & DevOps Enthusiast | AWS Certified</strong><br>
+  <strong>Full Stack Developer | Cloud & DevOps Enthusiast</strong><br>
   B.Tech CSE, Dr. A.P.J. Abdul Kalam Technical University
 </p>
 
