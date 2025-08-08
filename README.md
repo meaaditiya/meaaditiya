@@ -1,92 +1,114 @@
-# Aaditiya Tyagi
+<h1 align="center">👋 Hello, I'm Aaditiya Tyagi! 🚀</h1>
 
-**B.Tech CSE | Full Stack Developer | Cloud & DevOps Enthusiast**
+<p align="center">
+  <a href="https://linkedin.com/in/aaditiya-tyagi-babb26290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/meaaditiya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
+  </a>
+  <a href="mailto:aaditiyatyagi123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+  <a href="https://connectwithaaditiya.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?logo=firefox-browser" />
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a Computer Science undergraduate with a demonstrated passion for software development, cloud architecture, and scalable system design. My core strengths lie in full-stack web development (MERN), DevOps, and problem-solving. I actively contribute to open-source initiatives and have a strong foundation in building production-ready applications.
+I’m a **Full Stack Developer** and **Cloud Enthusiast** passionate about designing scalable, performance-driven web applications. My expertise lies in the **MERN Stack**, backed by certifications in **AWS Cloud Architecture** and **Cisco Cybersecurity**.
 
-With a commitment to quality and performance, I take pride in building efficient, maintainable, and user-centric solutions that align with real-world demands.
+I’m currently pursuing a **Bachelor of Technology in Computer Science** from **AKTU** and enjoy solving real-world problems with modern technologies, automation, and DevOps workflows.
 
 ---
 
-## ⚙️ Technical Proficiencies
+## 🧠 Tech Stack
 
-- **Programming**: Java, Python, JavaScript, SQL  
-- **Frontend Development**: React.js, HTML5, CSS3  
-- **Backend Development**: Node.js, Express.js  
-- **Databases**: MongoDB, PostgreSQL, MySQL  
-- **Cloud & Infrastructure**: AWS (EC2, S3, Lambda), Docker, Firebase  
-- **Developer Tools**: VS Code, Eclipse, IntelliJ IDEA, Redis  
-- **CI/CD & Deployment**: GitHub, Netlify, Render, Vercel  
-- **Version Control**: Git, GitHub  
+### 🗃️ Languages & Databases:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### 📦 Frameworks & Libraries:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### ☁️ Cloud & DevOps:
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### 🛠️ Tools:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
 ## 🛠️ Projects
 
-### 🔹 **E-Portal for Case Management Hearing**  
-A modular web-based judicial system featuring 40+ modules for scheduling, digital case tracking, and document filing. Designed role-based dashboards for clerks, advocates, litigants, and admins. Developed a searchable database of 260,000+ advocate records, improving query resolution times significantly.
+### 📌 E-Portal for Case Management Hearing  
+Built a robust digital case management system with 40+ modules, searchable 260K+ record database, and role-based dashboards.
 
-> _Tech Stack_: React.js, Node.js, Express.js, MongoDB
-
----
-
-### 🔹 **Personal Attendance Manager**  
-A production-grade web application for personalized attendance tracking. Integrated persistent browser storage and smart forecasting logic to help students plan their academic schedules more effectively.
-
-> _Tech Stack_: React.js, HTML, CSS, JavaScript
+**Stack**: React, Node.js, Express.js, MongoDB
 
 ---
 
-### 🔹 **Weather Tracking App for Farmers**  
-Built for rural accessibility, this app uses geo-targeted forecasting to help farmers plan better. Integrated Google Maps and OpenWeather API to deliver location-specific climate data.
+### 📌 Personal Attendance Manager  
+A React-based productivity app that tracks attendance trends and auto-calculates targets with local storage persistence.
 
-> _Tech Stack_: React.js, Node.js, Express.js, MongoDB, Google Maps API
-
----
-
-## 🎓 Certifications
-
-### ✅ **AWS – DevOps and Cloud Architecture**  
-Designed and deployed cloud infrastructure using EC2, S3, and Lambda. Built CI/CD pipelines for automated delivery and lifecycle management of applications on AWS.
-
-### ✅ **Cisco – Cybersecurity**  
-Completed certified training in network security, threat simulation, and secure communications protocols within practical scenarios.
+**Stack**: React.js, JavaScript, HTML, CSS
 
 ---
 
-## 🏆 Achievements & Activities
+### 📌 Weather App for Farmers  
+Geo-targeted weather forecasting app with Google Maps and OpenWeather API integration to assist farming decisions across 20+ regions.
 
-- 🧩 **Open Source Contributor**  
-  Actively contributed to multiple full-stack repositories with bug fixes and minor enhancements.
+**Stack**: React, Node.js, Express.js, MongoDB, Google Maps API
 
-- 🧠 **Campus Code Circle**  
-  Participated in peer-led coding sessions solving 100+ DSA problems with emphasis on optimization and code quality.
+---
 
-- 🌍 **Freelance Web Projects**  
-  Delivered end-to-end web solutions for tutors and small businesses, including CMS features and admin dashboards.
+## 📜 Certifications
+
+- 🟧 **AWS DevOps & Cloud Architecture**  
+  Deployed cloud apps using EC2, S3, and Lambda. Integrated CI/CD pipelines and automated infrastructure workflows.
+
+- 🔒 **Cybersecurity – Cisco**  
+  Trained in network security, threat modeling, and secure protocol implementation.
+
+---
+
+## 📚 Co-Curricular Activities
+
+- ✅ Open Source Contributor — Bug fixes & feature enhancements on full-stack repos  
+- ✅ Campus Code Circle — Solved 100+ DSA problems in weekly peer-led sessions  
+- ✅ Freelance Projects — Built custom sites for tutors & businesses, complete with admin panels
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aaditiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meaaditiya&show_icons=true&theme=dark&hide_title=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meaaditiya&layout=compact&theme=dark)
-
----
-
-## 📬 Connect With Me
-
-- 🌐 **Portfolio**: [connectwithaaditiya.onrender.com](https://connectwithaaditiya.onrender.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/aaditiya-tyagi-babb26290](https://linkedin.com/in/aaditiya-tyagi-babb26290/)  
-- 💻 **LeetCode**: [leetcode.com/u/aaditiya](https://leetcode.com/u/aaditiya/)  
-- 🛠️ **GitHub**: [github.com/meaaditiya](https://github.com/meaaditiya)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meaaditiya&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaaditiya&layout=compact&theme=react" alt="Top Languages" />
+</p>
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+## 📬 Let's Connect
 
+- 🌐 [Portfolio](https://connectwithaaditiya.onrender.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/aaditiya-tyagi-babb26290)  
+- 💻 [LeetCode](https://leetcode.com/u/aaditiya)  
+- 📧 [Email](mailto:aaditiyatyagi123@gmail.com)
+
+---
