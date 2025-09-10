@@ -42,18 +42,6 @@ Currently pursuing my **Bachelor's degree in Computer Science Engineering**, I c
 ### 📜 **Certifications**
         
 I hold an **AWS certification** in **DevOps & Cloud Architecture** and a strong foundation in **cybersecurity** through **Cisco training**.
-        
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding Animation"/>
-          <br><br>
-          <img src="https://github-readme-stats.vercel.app/api?username=meaaditiya&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=4285F4&text_color=333333&count_private=true" alt="GitHub Stats" width="100%"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="Rainbow Divider"/>
