@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=333333&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+scalable+solutions+with+passion+%F0%9F%9A%80;AWS+Certified+%7C+Open+Source+Contributor" alt="Subtitle Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=333333&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+scalable+solutions+with+passion" alt="Subtitle Animation" />
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="Main Coding Animation"/>
