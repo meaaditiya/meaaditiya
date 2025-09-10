@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Aaditiya%20Tyagi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=60&descAlign=50" />
+<h1>Aaditiya Tyagi, Full Stack Java Developer</h1>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=333333&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=80&lines=B.Tech+CSE%2C+Dr.+A.P.J.+Abdul+Kalam+Technical+University;Building+scalable+solutions+with+passion+%F0%9F%9A%80;AWS+Certified+%7C+Open+Source+Contributor" alt="Subtitle Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=333333&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+scalable+solutions+with+passion+%F0%9F%9A%80;AWS+Certified+%7C+Open+Source+Contributor" alt="Subtitle Animation" />
 </div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="Main Coding Animation"/>
 </div>
