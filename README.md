@@ -1,4 +1,4 @@
-# Aaditiya Tyagi | Full Stack Java Developer 🚀
+# Aaditiya Tyagi | Full Stack Java Developer 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667eea&background=FFFFFF00&center=true&vCenter=true&width=600&height=80&lines=Building+scalable+solutions+with+passion;Full+Stack+Java+Developer;AWS+Certified+DevOps+Engineer;Open+Source+Contributor" alt="Dynamic Typing Animation" />
